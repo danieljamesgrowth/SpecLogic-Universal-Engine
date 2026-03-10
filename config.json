@@ -1,0 +1,24 @@
+{
+    "active_market": "San Diego",
+    "last_updated": "2026-03-10",
+    "markets": {
+        "San Diego": {
+            "code_base": "2025 Title 24 (Adopted March 2026)",
+            "rules": {
+                "insulation_min": "R-60",
+                "recycled_content_target": 20,
+                "ev_ready_required": true
+            },
+            "incentives": {
+                "expedited_check": "Green Building Incentive Program"
+            }
+        },
+        "New York": {
+            "code_base": "2026 NYC Construction Codes",
+            "rules": {
+                "insulation_min": "R-49",
+                "flood_zone_check": true
+            }
+        }
+    }
+}
